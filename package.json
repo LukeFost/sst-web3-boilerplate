@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "sst": "^3.9.2"
+    "sst": "3.9.10"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.147"
   }
 }
